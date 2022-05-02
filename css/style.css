@@ -1,0 +1,80 @@
+
+/* General styling */
+
+body {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+}
+a:hover {
+    color: greenyellow;
+}
+
+header {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+}
+
+section {
+    height: 100vh;
+    background-image: url("../img/bailey-torres.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.two {
+    background-image: url("../img/bill-hamway.jpg");
+}
+.three {
+    background-image: url("../img/claudia-altamimi.jpg");
+}
+.four {
+    background-image: url("../img/claudia-altamimi1.jpg");
+}
+.five {
+    background-image: url("../img/hannah-gibbs.jpg");
+}
+.six {
+    background-image: url("../img/heather-suggitt.jpg");
+}
+.seven {
+    background-image: url("../img/heather-suggitt_1.jpg");
+}
+.eight {
+    background-image: url("../img/heather-suggitt2.jpg");
+}
+.nine {
+    background-image: url("../img/reynaldo-mirault.jpg");
+}
+.ten {
+    background-image: url("../img/sinjin-thomas.jpg");
+}
+.eleven {
+    background-image: url("../img/tim-trad.jpg");
+}
+.twelve {
+    background-image: url("../img/zach-vessels.jpg");
+}
+.thirtheen {
+    background-image: url("../img/zach-vessels1.jpg");
+}
